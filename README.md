@@ -2,7 +2,7 @@
 
 - These tools are written in Python for my class Security in RMIT university.
 
-- This is not supposed for professional use.
+- This is not designed for professional use.
 
 - Some of the feature might be hardcoded for specific usage.
 
@@ -15,7 +15,7 @@
 
 **Hashing includes**
 
--md5
--sha256
--sha512
+- md5
+- sha256
+- sha512
 
